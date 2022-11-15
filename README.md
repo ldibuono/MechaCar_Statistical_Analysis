@@ -3,7 +3,7 @@
 The variables that pro are vehicle lenght and ground clearance.
 **Is the slope of the linear model considered to be zero?** 
 The slop of the linear model is consider to be zero.
-**Does this linear model predict mpg of MechaCar prototypes effectively? **
+**Does this linear model predict mpg of MechaCar prototypes effectively?**
 I think this model was effective in predicting mpg of the MechaCar prototypes.
 
 ## Study Design: MechCar vs Competiton
